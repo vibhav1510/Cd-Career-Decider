@@ -1,6 +1,6 @@
 # CareerD - A Career Decider App
 ## Overview
-<img src=http://www.abetterinterview.com/wp-content/themes/cstardesign/cache/timthumb.php?src=http://www.abetterinterview.com/wp-content/uploads/2013/04/career-opportunity.jpg&h=200&w=300&zc=1&q=100"></img>
+<img src="http://www.abetterinterview.com/wp-content/themes/cstardesign/cache/timthumb.php?src=http://www.abetterinterview.com/wp-content/uploads/2013/04/career-opportunity.jpg&h=200&w=300&zc=1&q=100"></img>
 
 Choosing the best career is an extremely tedious, stressful and important part of our life. A career decider asking the best suitable option for you, just by asking few things.
 ## Requirements
