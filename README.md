@@ -14,3 +14,4 @@ Choosing the best career is an extremely tedious, stressful and important part o
 2. Run all the cells in the Google Colab Notebook <a href="https://colab.research.google.com/drive/1t5YyzMXj49so8nBRgn_ZNxOPw2RjKp1N?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 3. Copy the link and paste it in the browser
 ## Demo
+![](My project 1 2020-12-11_23-21-32.mp4)
